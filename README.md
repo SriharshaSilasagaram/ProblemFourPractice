@@ -4,7 +4,7 @@
     / ___/ (_) | | | | | ||  __/ |    / ___/ (_) \ V  V /  __/ |   
     \/    \___/|_|_| |_|\__\___|_|    \/    \___/ \_/\_/ \___|_|   
 
-    Read the comments line-by-line and debug where it says CODE, the code will not run correctly in its current state
-    This program will help you practice the first part of the exam problem i.e. writing a function (powerIncrementer) that takes 
-    a pointer parameter.
-    Ask for help early and often :D
+    Read the comments line-by-line and debug where it says CODE, the code will not run correctly in its current state.
+    This program will help you practice the first part of the exam problem.
+    CODE: Writing a function (powerIncrementer) that takes a pointer parameter.
+    HINT: Ask for help early and often :D
