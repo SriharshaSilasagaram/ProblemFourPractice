@@ -7,4 +7,4 @@
     Read the comments line-by-line and debug where it says CODE, the code will not run correctly in its current state.
     This program will help you practice the main portion of the exam problem.
     CODE: Writing a function (powerIncrementer) that takes a pointer parameter.
-    HINT: Ask for help early and often :D
+    If you're stuck ask for help early and often :D
