@@ -7,7 +7,7 @@
     \/    \___/|_|_| |_|\__\___|_|    \/    \___/ \_/\_/ \___|_|   
 
     Read the comments line-by-line and debug where it says CODE, the code will not run correctly in its current state
-    This program will help you practice the first part of the exam problem i.e. writing a function (powerIncrementer) that takes a pointer parameter.
+    This program will help you practice the main protion of the exam question i.e. writing a function (powerIncrementer) that takes a pointer parameter.
     Ask for help early and often :D
 
 */
@@ -45,4 +45,5 @@ int incrementer(int foo){
 
 void powerIncrementer(int placeholder){ //CODE: Modify the parameter to a pointer
     placeholder = placeholder + 1; // CODE: Would this line change placeholder's value when passed in? Modify it accordingly
+
 }
